@@ -30,7 +30,7 @@ vi ~/.bashrc
 Add this line to the end of the file
 
 ```shell
-source /opt/intel/openvino_2021/bin/setupvars.sh
+source /opt/intel/openvino_2021.4.752/bin/setupvars.sh
 ```
 
 ## Convert Model (already converted so no need to do this)
@@ -50,7 +50,7 @@ source /opt/intel/openvino_2021/bin/setupvars.sh
 3. Convert to OpenVINO
 
    ``` shell
-   cd <INSTSLL_DIR>/openvino_2021/deployment_tools/model_optimizer
+   cd <INSTSLL_DIR>/openvino_2021.4.752/deployment_tools/model_optimizer
    ```
 
    Install requirements for convert tool
