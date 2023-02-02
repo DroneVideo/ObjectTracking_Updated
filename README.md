@@ -38,7 +38,7 @@ source /opt/intel/openvino_2021.4.752/bin/setupvars.sh
 1. Export ONNX model
 
    ```shell
-   python ./tools/export_onnx.py --cfg_path ${CONFIG_PATH} --model_path ${PYTORCH_MODEL_PATH}
+   python ./export_onnx.py --cfg_path ${CONFIG_PATH} --model_path ${PYTORCH_MODEL_PATH}
    ```
 
 2. Use *onnx-simplifier* to simplify it
