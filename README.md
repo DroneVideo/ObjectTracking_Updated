@@ -18,7 +18,7 @@ sudo mv l_openvino_toolkit_dev_ubuntu20_p_2021.4.752 /opt/intel/openvino_2021.4.
 Run this command in shell every time before using OpenVINO to create environment.
 
 ```shell
-source /opt/intel/openvino_2021/bin/setupvars.sh
+source /opt/intel/openvino_2021.4.752/bin/setupvars.sh
 ```
 
 Or edit .bashrc
