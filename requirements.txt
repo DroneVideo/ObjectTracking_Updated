@@ -1,5 +1,6 @@
 brotlipy==0.7.0
 coloredlogs==15.0.1
+defusedxml==0.7.1
 flatbuffers==23.1.21
 humanfriendly==10.0
 mpmath==1.2.1
