@@ -35,6 +35,11 @@ source /opt/intel/openvino_2021.4.752/bin/setupvars.sh
 
 ## Convert Model (already converted so no need to do this)
 
+0. Install pip requirements
+   ```shell
+   pip install -r requirements.txt
+   ```
+
 1. Export ONNX model
 
    ```shell
