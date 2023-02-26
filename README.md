@@ -1,6 +1,6 @@
 # SampleSolution
 
-Link to [Setup](https://github.com/DroneVideo/docs/blob/gh-pages/setup.md")
+Link to [Setup](https://github.com/DroneVideo/docs/blob/gh-pages/setup.md)
 
 ## Build
 
